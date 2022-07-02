@@ -1,10 +1,10 @@
 #include <stdio.h>
-/** 
+/**
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
- 
+
 /* Function that prints Hexadeecimal numbers in lower case */
 int main(void)
 {
