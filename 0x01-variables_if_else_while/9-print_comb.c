@@ -5,7 +5,7 @@
  * Return: Always 0 (Success)
  */
 
-/* Function that prints all single digits of base 10 from 0 followed by a new line */
+/* Function prints single digits of base 10 starting from 0 */
 int main(void)
 {
 	int num = 0;
