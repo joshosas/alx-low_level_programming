@@ -2,7 +2,7 @@
 /** 
  * main - Entry point
  *
- * Always Return 0 for Success
+ * Return: Always 0 (Success)
  */
  
 /* Function that prints Hexadeecimal numbers in lower case */
