@@ -8,9 +8,9 @@
 /* This function prints all numbers in base 10 */
 int main(void)
 {
-	char num = 0;
+	char num = '0';
 
-	while (num < 10)
+	while (num <= '9')
 	{
 		putchar(num);
 		num++;
