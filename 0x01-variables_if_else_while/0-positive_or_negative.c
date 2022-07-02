@@ -3,9 +3,11 @@
 #include <time.h>
 /**
 * main - Entry point
-*
-* Return Always 0 (Success)
+* Description: Print a random number if positive, 0 or negative
+* Return: Always 0 (Success)
 */
+
+/* function that prints numbersn*/
 int main(void)
 {
 	int n;
