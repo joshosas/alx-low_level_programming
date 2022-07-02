@@ -8,13 +8,15 @@
 /* function that prints numbers 0 - 9 as integers */
 int main(void)
 {
-	int d;
+	int num = 0;
 
-	for (d = '0'; d <= '9'; d++)
+	while (num < 10)
 	{
-		putchar(d);
-		putchar('\n');
+		putchar(48 + num);
+		num++;
 	}
+
+	putchar('\n');
 
 	return (0);
 }
