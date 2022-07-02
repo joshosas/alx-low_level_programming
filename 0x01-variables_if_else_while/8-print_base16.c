@@ -16,12 +16,12 @@ int main(void)
 		hex++;
 	}
 
-	char alpha = 'a';
+	hex = 'a';
 
-	while (alpha <= 'f')
+	while (hex <= 'f')
 	{
-		putchar(alpha);
-		alpha++;
+		putchar(hex);
+		hex++;
 	}
 
 	putchar('\n');
