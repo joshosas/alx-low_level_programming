@@ -8,7 +8,7 @@
 /* This function prints all numbers in base 10 */
 int main(void)
 {
-	int num = 0;
+	char num = 0;
 
 	while (num < 10)
 	{
