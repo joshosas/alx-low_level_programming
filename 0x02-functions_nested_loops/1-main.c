@@ -6,6 +6,7 @@
  * Return: Always 0
  */
 
+/* function: prints alphabet */
 int main(void)
 {
 	print_alphabet();
