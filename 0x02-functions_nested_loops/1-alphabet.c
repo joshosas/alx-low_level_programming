@@ -3,9 +3,8 @@
 /**
  * Print alphabets - function prints alphabets in lower case
  *
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
-
 /* print_alphabet - function that prints alphabets */
 void print_alphabet(void)
 {
