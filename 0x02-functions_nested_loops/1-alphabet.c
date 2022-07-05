@@ -6,10 +6,7 @@
  * Return: Always 0
  */
 
-/* function - prints alphabets 
- *
- * Betty leave me alone
- */
+/* print_alphabet - function that prints alphabets */
 void print_alphabet(void)
 {
 	int alpha;
