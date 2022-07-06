@@ -8,10 +8,10 @@
 /* function prints the Fibonacci sequence numbers */
 int main(void)
 {
-	unsigned long int a = 0, b = 1, nextnum = 0;
 	int i = 0;
+	unsigned long int a = 0, b = 1, nextnum = 0;
 
-	while (i < 90)
+	while (i < 98)
 	{
 		nextnum = a + b;
 		a = b;
