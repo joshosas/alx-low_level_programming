@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table - prints times table 
+ * times_table - prints times table
  *
  * Return: Always 0
  */
@@ -11,6 +11,7 @@ void times_table(void)
 	int x = 0;
 	int y;
 	int mul;
+
 	while (x <= 9)
 	{
 		y = 0;
@@ -27,6 +28,11 @@ void times_table(void)
 				_putchar('0' + mul);
 			}
 			else
+			{
+				_putchar('0' + mul / 10);
+				_putchar('0' + mul % 10);
+			}
+			if (y < 9)
 			{
 				_putchar(',');
 				_putchar(' ');
