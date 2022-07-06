@@ -5,6 +5,7 @@
  *
  * Return: Always 0
  */
+/* jack_bauer: function prints all minutes of jack bauer's life*/
 void jack_bauer(void)
 {
 	int h1;
