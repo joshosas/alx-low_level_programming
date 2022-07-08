@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * print_number - like a hello world
+ * print_number - an integer
  * @n: integer parameter
  * Return: void
  */
@@ -15,7 +15,7 @@ void print_number(int n)
 	if (n < 0)
 	{
 		n_1 = -n;
-		_putchar('_');
+		_putchar('-');
 	}
 
 	else
