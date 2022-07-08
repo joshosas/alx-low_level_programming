@@ -5,10 +5,11 @@
  *
  * Return: void
  */
-
+/* more_numbers: function prints numbers 0 to 14 */
 void more_numbers(void)
 {
-	int i, j;
+	int i;
+	int j;
 
 	for (j = 0; j <= 10; j++)
 	{
@@ -18,8 +19,11 @@ void more_numbers(void)
 			{
 				_putchar((i / 10) + '0');
 			}
+
 			_putchar((i % 10) + '0');
 		}
+
 		_putchar('\n');
 	}
+
 }
