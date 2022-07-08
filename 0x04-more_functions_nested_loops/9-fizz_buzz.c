@@ -4,13 +4,13 @@
 /**
  * main - Fizz for multiples of 3, Buzz for 5 and FizzBuzz for both
  * 
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	int i = 1;
 
-	while (i <= 100)
+	while (i < 101)
 	{
 		if (i % 3 == 0)
 		{
