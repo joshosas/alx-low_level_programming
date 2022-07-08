@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - Print line based on the integer n
+ * print_square - Print square based on the integer n
  * @n : The number of lines using  "#" characters to
  * Return: void
  */
