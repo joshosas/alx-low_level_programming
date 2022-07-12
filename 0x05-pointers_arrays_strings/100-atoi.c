@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * atoi - int
+ * _atoi - int
  * @s: pointer
  * Return: int
  */
