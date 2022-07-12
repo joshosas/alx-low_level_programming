@@ -8,7 +8,7 @@
 void rev_string(char *s)
 {
 	char *t = s;
-	char n[50];
+	char n[999];
 	short count = 0;
 
 	while (*s != '\0')
