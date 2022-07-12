@@ -4,8 +4,8 @@
 /**
  * print_array - prints elements of an array
  * @a: pointer
- * @b; pointer
- * Return: a and b
+ * @n: pointer
+ * Return: a and n
  */
 
 void print_array(int *a, int n)
