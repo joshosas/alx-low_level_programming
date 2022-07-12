@@ -3,7 +3,7 @@
 /**
  * _print_rev - function prints out a string in reverse order
  * @s: pointer to string
- * Return: nothing
+ * Return: always 0 (Success)
 */
 void print_rev(char *s)
 {
