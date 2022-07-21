@@ -19,3 +19,5 @@ int _squareroot(int n, int x);
 int is_palindrome(char *s);
 int last_index(char *s);
 int _checker(char *s, int start, int end, int pair);
+
+int wildcmp(char *s1, char *s2);

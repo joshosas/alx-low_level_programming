@@ -7,12 +7,13 @@
 int last_index(char *s)
 {
 	int n = 0;
+
 	if (*s > '\0')
 		n += last_index(s + 1) + 1;
-	return(n);
+	return (n);
 }
 /**
- * is _palindrome - function checks if a string is a palindrome
+ * is_palindrome - function checks if a string is a palindrome
  * @s: string
  * Return: 0 or 1
  */
