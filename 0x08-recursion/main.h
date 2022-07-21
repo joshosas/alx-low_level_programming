@@ -11,3 +11,11 @@ int _strlen_recursion(char *s);
 int factorial(int n);
 
 int _pow_recursion(int x, int y);
+
+int _sqrt_recursion(int n);
+
+int _squareroot(int n, int x);
+
+int is_palindrome(char *s);
+int last_index(char *s);
+int _checker(char *s, int start, int end, int pair);
