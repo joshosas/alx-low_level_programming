@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-_putchar(char c);
+char _putchar(char c);
 
 char *_strdup(char *str);
 
