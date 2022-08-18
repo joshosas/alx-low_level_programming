@@ -1,1 +1,1 @@
-This is a README file at the root of the repository
+This Repository contains projects pertaining to Low Level Programming in the ALX SE Program
